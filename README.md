@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Hello 👋
-
 🧑 My name is Jimmy
 
 ☀️ I am an incoming IT Intern for Oxy this Summer 2025.
