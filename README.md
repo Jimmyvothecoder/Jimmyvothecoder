@@ -1,11 +1,10 @@
 # 💫 Hi, I'm Jimmy
-☁️ New Grad | Cloud Engineer
-📍 Houston, TX
-🧠 Building cloud-native projects with AWS (serverless + data pipelines)
-🧩 Latest: RAG pipeline (S3 + API Gateway + Lambda + vector search + LLM) for question-answering over private docs
-🔐 Interested in security + AI (phishing detection, threat triage, automation)
-📚 Certs: AWS Cloud Practitioner (in progress) | Next: SAA
-
+☁️ New Grad | Cloud & Full-Stack Developer<br>
+📍 Houston, TX<br>
+🧠 Building cloud-native projects with AWS (serverless + data pipelines)<br>
+🧩 Latest: **RAG pipeline** (S3 + API Gateway + Lambda + vector search + LLM) for question-answering over private docs<br>
+🔐 Interested in security + AI (phishing detection, threat triage, automation)<br>
+📚 Certs: AWS Cloud Practitioner (in progress) | Next: SAA<br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jtvo8@cougarnet.uh.edu) 
