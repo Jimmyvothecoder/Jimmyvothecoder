@@ -1,5 +1,10 @@
 # 💫 Hi, I'm Jimmy
-☀️ Incoming IT Intern for Oxy this Summer 2025.<br>💻 Strong interest in Cloud Computing and Software development.<br>☁️ Working towards the AWS Cloud Practitioner Certification.<br><br>🤖 I am currently working on developing an AI agent to help businesses detect and mitigate cyber threats delivered via email or text messages. This system leverages natural language processing (NLP) and machine learning to analyze message content, identify phishing attempts, and flag potential security risks in real time
+☁️ New Grad | Cloud Engineer
+📍 Houston, TX
+🧠 Building cloud-native projects with AWS (serverless + data pipelines)
+🧩 Latest: RAG pipeline (S3 + API Gateway + Lambda + vector search + LLM) for question-answering over private docs
+🔐 Interested in security + AI (phishing detection, threat triage, automation)
+📚 Certs: AWS Cloud Practitioner (in progress) | Next: SAA
 
 
 ## 🌐 Socials:
